@@ -1,5 +1,4 @@
-# Group Project 2
-# TryMoreThai
+
 # Analysis of which Virginia math SOL tests best predicts student enrollment in college.
 
 # package for descriptive statistics
