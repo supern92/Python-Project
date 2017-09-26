@@ -1,2 +1,2 @@
 # Statistical analysis projects
-In this repo I list all the projects I've done using Python
+In this repo I list all of the statistical analysis projects using either Python or R 
