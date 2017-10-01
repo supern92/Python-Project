@@ -10,7 +10,7 @@ library(lmtest)
 library(MASS)
 
 # read in dataset
-setwd("/Users/hilaryligon/Desktop/GW Data Science/DATS 6101")
+setwd("/Users/Nahid/Desktop/GW Data Science/DATS 6101")
 sols <- read.csv('math.csv')
 head(sols)
 
